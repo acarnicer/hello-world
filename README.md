@@ -1,2 +1,7 @@
 # hello-world
-Hello world of Github!
+
+Hello people,
+
+I like platypuses.
+
+
